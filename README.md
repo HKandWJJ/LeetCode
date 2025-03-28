@@ -1,7 +1,7 @@
 <h1 align="center">LeetCode题解及笔记</h1>
 <p>题解均使用Java编写并保存在src文件夹中</p>
 <h2 align="center">目&emsp;录</h2>
-<table align="center" style="width: 90%; max-width: 1000px; margin: 0 auto;">
+<table align="center" style="width: 90%">
   <thead>
     <tr>
       <th style="text-align: center;">Index</th>
