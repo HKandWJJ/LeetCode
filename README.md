@@ -14,13 +14,13 @@
     <tr>
       <td style="text-align: center;">0295</td>
       <td style="text-align: center;">前k个高频元素</td>
-      <td style="text-align: center;">Java</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Heap0347_topKFrequent">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
       <td style="text-align: center;">0347</td>
       <td style="text-align: center;">数据流的中位数</td>
-      <td style="text-align: center;">Java</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Heap0295_findMedian">Java</a></td>
       <td style="text-align: center;">Hard</td>
     </tr>
   </tbody>
