@@ -12,6 +12,12 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;">0045</td>
+      <td style="text-align: center;">跳跃游戏II</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0045_jumpGame_II">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0055</td>
       <td style="text-align: center;">跳跃游戏</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0055_jumpGame">Java</a></td>
@@ -38,7 +44,7 @@
     <tr>
       <td style="text-align: center;">0763</td>
       <td style="text-align: center;">划分字母区间</td>
-      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy_partitionLabels">Java</a></td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0763_partitionLabels">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
   </tbody>
