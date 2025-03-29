@@ -12,6 +12,18 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;">0055</td>
+      <td style="text-align: center;">跳跃游戏</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0055_jumpGame">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0121</td>
+      <td style="text-align: center;">买卖股票的最佳时机</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0121_bestTimeToBuyAndSellStock">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0295</td>
       <td style="text-align: center;">前k个高频元素</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Heap0347_topKFrequent">Java</a></td>
@@ -22,6 +34,12 @@
       <td style="text-align: center;">数据流的中位数</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Heap0295_findMedian">Java</a></td>
       <td style="text-align: center;">Hard</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0763</td>
+      <td style="text-align: center;">划分字母区间</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy_partitionLabels">Java</a></td>
+      <td style="text-align: center;">Medium</td>
     </tr>
   </tbody>
 </table>

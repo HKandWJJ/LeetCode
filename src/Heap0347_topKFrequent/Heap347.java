@@ -32,6 +32,9 @@ import java.util.PriorityQueue;
  * }
  * ArrayComparator arrayComparator = new ArrayComparator();
  * PriorityQueue<int[]> queue = new PriorityQueue<int[]>(arrayComparator);
+ * ****************************************************************************
+ * 时间复杂度：O(nlogk)，其中n是数组的长度，k是前k个高频元素的数量。
+ * 空间复杂度：O(n)，其中n是数组的长度，用于存储HashMap。
  */
 
 

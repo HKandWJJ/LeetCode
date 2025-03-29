@@ -17,6 +17,10 @@ import java.util.PriorityQueue;
  * PriorityQueue：优先级队列，会根据元素的优先级对元素进行排序，确保队首元素始终是优先级最高的元素。不允许存储null元素，线程不安全，动态扩容。
  * PriorityQueue<Integer> queMin = new PriorityQueue<Integer>((a, b) -> (b - a));
  * 比较器Comparator:(a, b) -> (b - a)是一个Lambda表达式，表示当比较两个元素a和b时，返回b - a的结果。
+ * ****************************************************************************
+ * 时间复杂度：addNum :O(logn)，其中n是已添加的数字的数量。
+ *          findMedian :O(1)，直接返回两个优先队列的堆顶元素。
+ * 空间复杂度：O(n)，其中n是已添加的数字的数量，用于存储优先队列。
  */
 class MedianFinder {
 
