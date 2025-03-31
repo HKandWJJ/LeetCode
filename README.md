@@ -23,6 +23,12 @@
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0055_jumpGame">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
+<tr>
+      <td style="text-align: center;">0070</td>
+      <td style="text-align: center;">爬楼梯</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0070_climbStairs">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
     <tr>
       <td style="text-align: center;">0121</td>
       <td style="text-align: center;">买卖股票的最佳时机</td>
