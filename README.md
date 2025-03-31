@@ -42,6 +42,12 @@
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0139</td>
+      <td style="text-align: center;">单词拆分</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0139_wordBreak">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0198</td>
       <td style="text-align: center;">打家劫舍</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0198_threft">Java</a></td>
@@ -57,6 +63,12 @@
       <td style="text-align: center;">0295</td>
       <td style="text-align: center;">前k个高频元素</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Heap0347_topKFrequent">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0322</td>
+      <td style="text-align: center;">零钱兑换</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0322_coinChange">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
