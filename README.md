@@ -12,6 +12,12 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;">0032</td>
+      <td style="text-align: center;">最长有效括号</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0032_longestValidParentheses">Java</a></td>
+      <td style="text-align: center;">Hard</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0045</td>
       <td style="text-align: center;">跳跃游戏II</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0045_jumpGame_II">Java</a></td>
@@ -48,6 +54,12 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0152</td>
+      <td style="text-align: center;">乘积最大子数组</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0152_maxProduct">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0198</td>
       <td style="text-align: center;">打家劫舍</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0198_threft">Java</a></td>
@@ -66,6 +78,12 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0300</td>
+      <td style="text-align: center;">最长递增子序列</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0300_lengthOfLIS">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0322</td>
       <td style="text-align: center;">零钱兑换</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0322_coinChange">Java</a></td>
@@ -76,6 +94,12 @@
       <td style="text-align: center;">数据流的中位数</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Heap0295_findMedian">Java</a></td>
       <td style="text-align: center;">Hard</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0416</td>
+      <td style="text-align: center;">分割等和子集</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0416_canPartition">Java</a></td>
+      <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
       <td style="text-align: center;">0763</td>
