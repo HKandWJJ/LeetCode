@@ -12,6 +12,12 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;">0005</td>
+      <td style="text-align: center;">最长回文子串</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/MDP0005_longestPalindrome">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0032</td>
       <td style="text-align: center;">最长有效括号</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0032_longestValidParentheses">Java</a></td>
@@ -27,6 +33,18 @@
       <td style="text-align: center;">0055</td>
       <td style="text-align: center;">跳跃游戏</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0055_jumpGame">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0062</td>
+      <td style="text-align: center;">不同路径</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/MDP0062_uniquePaths">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0064</td>
+      <td style="text-align: center;">最小路径和</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/MDP0064_minPathSum">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
@@ -105,6 +123,12 @@
       <td style="text-align: center;">0763</td>
       <td style="text-align: center;">划分字母区间</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0763_partitionLabels">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">1143</td>
+      <td style="text-align: center;">最长公共子序列</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/MDP1143_LCS">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
   </tbody>
