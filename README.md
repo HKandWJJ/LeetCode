@@ -18,6 +18,12 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0031</td>
+      <td style="text-align: center;">下一个排列</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0031_nextPermutation">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0032</td>
       <td style="text-align: center;">最长有效括号</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0032_longestValidParentheses">Java</a></td>
@@ -54,6 +60,18 @@
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0072</td>
+      <td style="text-align: center;">编辑距离</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/MDP00702_MinDistance">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0075</td>
+      <td style="text-align: center;">颜色分类</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0075_sortColors">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0118</td>
       <td style="text-align: center;">杨辉三角</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0118_PascalsTriangle">Java</a></td>
@@ -63,6 +81,12 @@
       <td style="text-align: center;">0121</td>
       <td style="text-align: center;">买卖股票的最佳时机</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0121_bestTimeToBuyAndSellStock">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0136</td>
+      <td style="text-align: center;">只出现一次的数字</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0136_singleNumber">Java</a></td>
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
@@ -78,6 +102,12 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0169</td>
+      <td style="text-align: center;">多数元素</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0169_majorityElement">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0198</td>
       <td style="text-align: center;">打家劫舍</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0198_threft">Java</a></td>
@@ -87,6 +117,12 @@
       <td style="text-align: center;">0279</td>
       <td style="text-align: center;">完全平方数</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0279_numSquares">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0287</td>
+      <td style="text-align: center;">寻找重复数</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0287_findDuplicate">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
