@@ -12,6 +12,12 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;">0001</td>
+      <td style="text-align: center;">两数之和</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Hash0001_twoSum">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0005</td>
       <td style="text-align: center;">最长回文子串</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/MDP0005_longestPalindrome">Java</a></td>
@@ -33,6 +39,12 @@
       <td style="text-align: center;">0045</td>
       <td style="text-align: center;">跳跃游戏II</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0045_jumpGame_II">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0049</td>
+      <td style="text-align: center;">字母异位词分组</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Hash0049_groupAnagrams">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
@@ -84,6 +96,12 @@
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0128</td>
+      <td style="text-align: center;">最长连续序列</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Hash0128_longestConsecutive">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0136</td>
       <td style="text-align: center;">只出现一次的数字</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0136_singleNumber">Java</a></td>
@@ -118,6 +136,12 @@
       <td style="text-align: center;">完全平方数</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0279_numSquares">Java</a></td>
       <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0283</td>
+      <td style="text-align: center;">移动零</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/TP0283_moveZeroes">Java</a></td>
+      <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
       <td style="text-align: center;">0287</td>
