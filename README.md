@@ -18,6 +18,12 @@
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0003</td>
+      <td style="text-align: center;">无重复字符的最长子串</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/SW0003_lengthOfLongestSubstring">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0005</td>
       <td style="text-align: center;">最长回文子串</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/MDP0005_longestPalindrome">Java</a></td>
