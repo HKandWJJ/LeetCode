@@ -24,6 +24,18 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0011</td>
+      <td style="text-align: center;">盛最多水的容器</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/TP0011_maxArea">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0015</td>
+      <td style="text-align: center;">三数之和</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/TP0015_threeSum">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0031</td>
       <td style="text-align: center;">下一个排列</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0031_nextPermutation">Java</a></td>
@@ -33,6 +45,12 @@
       <td style="text-align: center;">0032</td>
       <td style="text-align: center;">最长有效括号</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0032_longestValidParentheses">Java</a></td>
+      <td style="text-align: center;">Hard</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0042</td>
+      <td style="text-align: center;">接雨水</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/TP0042_trap">Java</a></td>
       <td style="text-align: center;">Hard</td>
     </tr>
     <tr>
