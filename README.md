@@ -156,6 +156,12 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0239</td>
+      <td style="text-align: center;">滑动窗口最大值</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/SS0239_maxSlidingWindow">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0279</td>
       <td style="text-align: center;">完全平方数</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0279_numSquares">Java</a></td>
@@ -201,6 +207,12 @@
       <td style="text-align: center;">0416</td>
       <td style="text-align: center;">分割等和子集</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0416_canPartition">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0560</td>
+      <td style="text-align: center;">和为k的子数组</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/SS0560_subarraySum">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
