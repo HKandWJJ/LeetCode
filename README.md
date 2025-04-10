@@ -72,9 +72,21 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0053</td>
+      <td style="text-align: center;">最大子序和</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Array0053_maxSubArray">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0055</td>
       <td style="text-align: center;">跳跃游戏</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Greedy0055_jumpGame">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0056</td>
+      <td style="text-align: center;">合并区间</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Array0056_merge">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
@@ -106,6 +118,12 @@
       <td style="text-align: center;">颜色分类</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0075_sortColors">Java</a></td>
       <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0076</td>
+      <td style="text-align: center;">最小覆盖子串</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/SS0076_minWindow">Java</a></td>
+      <td style="text-align: center;">Hard</td>
     </tr>
     <tr>
       <td style="text-align: center;">0118</td>
@@ -153,6 +171,12 @@
       <td style="text-align: center;">0198</td>
       <td style="text-align: center;">打家劫舍</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0198_threft">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0238</td>
+      <td style="text-align: center;">除自身以外数组的乘积</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Array0238_productExceptSelf">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
