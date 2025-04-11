@@ -54,6 +54,12 @@
       <td style="text-align: center;">Hard</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0041</td>
+      <td style="text-align: center;">缺失的第一个正数</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Array0041_firstMissingPositive">Java</a></td>
+      <td style="text-align: center;">Hard</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0042</td>
       <td style="text-align: center;">接雨水</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/TP0042_trap">Java</a></td>
@@ -66,6 +72,12 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0048</td>
+      <td style="text-align: center;">旋转图像</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Matrix0048_rotate">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0049</td>
       <td style="text-align: center;">字母异位词分组</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Hash0049_groupAnagrams">Java</a></td>
@@ -75,6 +87,12 @@
       <td style="text-align: center;">0053</td>
       <td style="text-align: center;">最大子序和</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Array0053_maxSubArray">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0054</td>
+      <td style="text-align: center;">螺旋矩阵</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Matrix0054_spiralOrder">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
@@ -111,6 +129,12 @@
       <td style="text-align: center;">0072</td>
       <td style="text-align: center;">编辑距离</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/MDP00702_MinDistance">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0073</td>
+      <td style="text-align: center;">矩阵置零</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Matrix0073_setZeroes">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
