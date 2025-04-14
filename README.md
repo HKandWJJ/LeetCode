@@ -186,6 +186,12 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0160</td>
+      <td style="text-align: center;">相交链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0160_getIntersectionNode">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0169</td>
       <td style="text-align: center;">多数元素</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0169_majorityElement">Java</a></td>
@@ -198,6 +204,18 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0206</td>
+      <td style="text-align: center;">反转链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0206_reverseList">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0234</td>
+      <td style="text-align: center;">回文链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0234_isPalindrome">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0238</td>
       <td style="text-align: center;">除自身以外数组的乘积</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Array0238_productExceptSelf">Java</a></td>
@@ -207,6 +225,12 @@
       <td style="text-align: center;">0239</td>
       <td style="text-align: center;">滑动窗口最大值</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/SS0239_maxSlidingWindow">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0240</td>
+      <td style="text-align: center;">搜索二维矩阵 II</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Matrix0240_searchMatrix">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
