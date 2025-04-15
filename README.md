@@ -18,6 +18,12 @@
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0002</td>
+      <td style="text-align: center;">两数相加</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0002_addTwoNumbers">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0003</td>
       <td style="text-align: center;">无重复字符的最长子串</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/SW0003_lengthOfLongestSubstring">Java</a></td>
@@ -40,6 +46,12 @@
       <td style="text-align: center;">三数之和</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/TP0015_threeSum">Java</a></td>
       <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0021</td>
+      <td style="text-align: center;">合并两个有序链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0021_mergeTwoLists">Java</a></td>
+      <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
       <td style="text-align: center;">0031</td>
@@ -177,6 +189,18 @@
       <td style="text-align: center;">0139</td>
       <td style="text-align: center;">单词拆分</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0139_wordBreak">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0141</td>
+      <td style="text-align: center;">环形链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0141_hasCycle">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0142</td>
+      <td style="text-align: center;">环形链表II</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0142_detectCycle">Java</a></td>
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
