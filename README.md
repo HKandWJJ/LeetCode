@@ -48,10 +48,28 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0019</td>
+      <td style="text-align: center;">删除链表的倒数第N个结点</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0019_removeNthFromEnd">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0021</td>
       <td style="text-align: center;">合并两个有序链表</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0021_mergeTwoLists">Java</a></td>
       <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0024</td>
+      <td style="text-align: center;">两两交换链表中的结点</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0024_swapPairs">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0025</td>
+      <td style="text-align: center;">K个一组翻转链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0025_reverseKGroup">Java</a></td>
+      <td style="text-align: center;">Hard</td>
     </tr>
     <tr>
       <td style="text-align: center;">0031</td>
@@ -184,6 +202,12 @@
       <td style="text-align: center;">只出现一次的数字</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/Trick0136_singleNumber">Java</a></td>
       <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0138</td>
+      <td style="text-align: center;">复制带随机指针的链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0138_copyRandomList">Java</a></td>
+      <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
       <td style="text-align: center;">0139</td>
