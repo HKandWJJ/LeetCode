@@ -60,6 +60,12 @@
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0023</td>
+      <td style="text-align: center;">合并K个排序链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0023_mergeKLists">Java</a></td>
+      <td style="text-align: center;">Hard</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0024</td>
       <td style="text-align: center;">两两交换链表中的结点</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0024_swapPairs">Java</a></td>
@@ -180,6 +186,24 @@
       <td style="text-align: center;">Hard</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0094</td>
+      <td style="text-align: center;">二叉树的中序遍历</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0101_isSymmetric">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0101</td>
+      <td style="text-align: center;">对称二叉树</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0226_invertTree">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0104</td>
+      <td style="text-align: center;">二叉树的最大深度</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0104_maxDepth">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0118</td>
       <td style="text-align: center;">杨辉三角</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0118_PascalsTriangle">Java</a></td>
@@ -228,6 +252,12 @@
       <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
+      <td style="text-align: center;">0148</td>
+      <td style="text-align: center;">排序链表</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0148_sortList">Java</a></td>
+      <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
       <td style="text-align: center;">0152</td>
       <td style="text-align: center;">乘积最大子数组</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0152_maxProduct">Java</a></td>
@@ -255,6 +285,12 @@
       <td style="text-align: center;">0206</td>
       <td style="text-align: center;">反转链表</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/LinkedList0206_reverseList">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0226</td>
+      <td style="text-align: center;">翻转二叉树</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0226_invertTree">Java</a></td>
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
