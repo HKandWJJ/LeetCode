@@ -188,19 +188,31 @@
     <tr>
       <td style="text-align: center;">0094</td>
       <td style="text-align: center;">二叉树的中序遍历</td>
-      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0101_isSymmetric">Java</a></td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0094_inorderTraversal">Java</a></td>
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
       <td style="text-align: center;">0101</td>
       <td style="text-align: center;">对称二叉树</td>
-      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0226_invertTree">Java</a></td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0101_isSymmetric">Java</a></td>
       <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0102</td>
+      <td style="text-align: center;">二叉树的层序遍历</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0102_levelOrder">Java</a></td>
+      <td style="text-align: center;">Medium</td>
     </tr>
     <tr>
       <td style="text-align: center;">0104</td>
       <td style="text-align: center;">二叉树的最大深度</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0104_maxDepth">Java</a></td>
+      <td style="text-align: center;">Easy</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0108</td>
+      <td style="text-align: center;">将有序数组转换为二叉搜索树</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0108_sortedArrayToBST">Java</a></td>
       <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
@@ -364,6 +376,12 @@
       <td style="text-align: center;">分割等和子集</td>
       <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/DP0416_canPartition">Java</a></td>
       <td style="text-align: center;">Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">0543</td>
+      <td style="text-align: center;">二叉树的直径</td>
+      <td style="text-align: center;"><a href="https://github.com/HKandWJJ/LeetCode/tree/master/src/BT0543_diameterOfBinaryTree">Java</a></td>
+      <td style="text-align: center;">Easy</td>
     </tr>
     <tr>
       <td style="text-align: center;">0560</td>
